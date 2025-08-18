@@ -1,5 +1,5 @@
 ### CREATED AND TESTED BY ER. AJAY BHATTARAI ##
-### Author ER> Ajay Bhattarai
+### Author ER. Ajay Bhattarai
 
 <b>FILE NAME: pdf merge with list: </b> This Python script merges multiple PDFs in a specified order, skipping any missing files. 
               
