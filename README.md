@@ -1,3 +1,6 @@
+### CREATED AND TESTED BY ER. AJAY BHATTARAI ##
+### Author ER> Ajay Bhattarai
+
 <b>FILE NAME: pdf merge with list: </b> This Python script merges multiple PDFs in a specified order, skipping any missing files. 
               
 The output file is named using the first and last PDFs included and saved in the same folder. It uses PyPDF2’s PdfMerger for a simple, reliable, and automated merging process.
