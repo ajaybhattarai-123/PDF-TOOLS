@@ -12,3 +12,6 @@ The merged file is named using the first and last PDFs included and saved in the
 <b>FILE NAME: PDFSPLITANDMERGE: </b>This script extracts a specific page range from a PDF and saves it as a new file using PyPDF2. 
 
 <b>FILE NAME: skip and merge pdf: </b>Merges multiple PDFs while skipping specified pages, creating a single output file automatically.
+
+<b>FILE NAME: pdf-middle-remove: </b>Removes the unnecessary pages between the pdf, and accepts the value in start range-end range
+
