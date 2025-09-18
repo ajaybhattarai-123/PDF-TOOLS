@@ -15,9 +15,11 @@ The merged file is named using the first and last PDFs included and saved in the
 
 <b>FILE NAME: pdf-middle-remove: </b>Removes the unnecessary pages between the pdf, and accepts the value in start range-end range
 
-<b> FILE NAME: pdf-margin.py: <div style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; color: #333;">
+<b>FILE NAME: pdf-margin.py</b>
+<div style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5; color: #333;">
   <p><strong>This file helps you change the margins of specified pages.</strong> 📄</p>
   <p><em>Watch the video for a clear guide on how to use the code.</em></p>
-  <p>Link is provided below.</p>
+  <p>Link is provided below: <a href="https://youtu.be/9z91TuZbc5Q" target="_blank" style="color: #1a73e8; text-decoration: none;">https://youtu.be/9z91TuZbc5Q</a></p>
 </div>
+
 
